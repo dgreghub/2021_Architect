@@ -1,5 +1,7 @@
 # 2021_Architect
 
+https://docs.google.com/document/d/1FkCfy8uTebIX2ZezR6arV4HlXMco3teTk3_HudsBgkk/edit
+
 # Architect Assignment - Smart Mobility Service (Conceptual Architecture)
   Based on OOAD / UP
 
